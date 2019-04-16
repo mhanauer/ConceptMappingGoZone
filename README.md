@@ -1,5 +1,5 @@
 ---
-title: "AMA Results"
+title: "Go Zone"
 output:
   pdf_document: default
   html_document: default
